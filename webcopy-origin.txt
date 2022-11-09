@@ -1,0 +1,368 @@
+Uri: https://builderall.com/franquias/2/73748/editor-html/3484811.png
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\franquias\2\73748\editor-html\3484811.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@4.4.95/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\npm\@mdi\font@4.4.95\css\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@4.4.95/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\npm\@mdi\font@4.4.95\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@4.4.95/fonts/materialdesignicons-webfont.eot?v=4.4.95
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\npm\@mdi\font@4.4.95\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@4.4.95/fonts/materialdesignicons-webfont.ttf?v=4.4.95
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\npm\@mdi\font@4.4.95\fonts\materialdesignicons-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@4.4.95/fonts/materialdesignicons-webfont.woff2?v=4.4.95
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\npm\@mdi\font@4.4.95\fonts\materialdesignicons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@4.4.95/fonts/materialdesignicons-webfont.woff?v=4.4.95
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\npm\@mdi\font@4.4.95\fonts\materialdesignicons-webfont.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@5.8.55/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\npm\@mdi\font@5.8.55\css\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@5.8.55/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\npm\@mdi\font@5.8.55\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@5.8.55/fonts/materialdesignicons-webfont.eot?v=5.8.55
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\npm\@mdi\font@5.8.55\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@5.8.55/fonts/materialdesignicons-webfont.ttf?v=5.8.55
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\npm\@mdi\font@5.8.55\fonts\materialdesignicons-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@5.8.55/fonts/materialdesignicons-webfont.woff2?v=5.8.55
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\npm\@mdi\font@5.8.55\fonts\materialdesignicons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@mdi/font@5.8.55/fonts/materialdesignicons-webfont.woff?v=5.8.55
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\npm\@mdi\font@5.8.55\fonts\materialdesignicons-webfont.woff
+Content Type: font/woff
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\ajax\libs\font-awesome\5.13.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cheetah-templates.builderall.com/storage/user_files/781066/fonts/worksans.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\storage\user_files\781066\fonts\worksans.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\index.htm
+Content Type: text/html
+
+Uri: https://maquinasdeganancias.com/cheetah/link/recaptcha?lang=es
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\cheetah\link\recaptcha
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/css/app.8004db1b.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\css\app.8004db1b.css
+Content Type: text/css
+
+Uri: https://maquinasdeganancias.com/css/chunk-0e42f782.c35eebba.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\css\chunk-0e42f782.c35eebba.css
+Content Type: text/css
+
+Uri: https://maquinasdeganancias.com/css/chunk-65b86cc8.36cc55a8.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\css\chunk-65b86cc8.36cc55a8.css
+Content Type: text/css
+
+Uri: https://maquinasdeganancias.com/css/chunk-7c3acea6.9d979586.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\css\chunk-7c3acea6.9d979586.css
+Content Type: text/css
+
+Uri: https://maquinasdeganancias.com/css/chunk-7e66b06c.780d7455.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\css\chunk-7e66b06c.780d7455.css
+Content Type: text/css
+
+Uri: https://maquinasdeganancias.com/css/chunk-vendors.27c712ba.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\css\chunk-vendors.27c712ba.css
+Content Type: text/css
+
+Uri: https://maquinasdeganancias.com/fonts/arial-black.3e7043e8.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\fonts\arial-black.3e7043e8.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/js/app.c38fa314.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\js\app.c38fa314.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/js/chunk-0e42f782.572fd88f.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\js\chunk-0e42f782.572fd88f.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/js/chunk-2d0a3203.7cc86c4e.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\js\chunk-2d0a3203.7cc86c4e.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/js/chunk-2d0dd430.168382da.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\js\chunk-2d0dd430.168382da.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/js/chunk-2d0e24f8.e343f0a5.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\js\chunk-2d0e24f8.e343f0a5.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/js/chunk-2d0e4e8d.90980b71.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\js\chunk-2d0e4e8d.90980b71.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/js/chunk-2d230809.0789e38c.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\js\chunk-2d230809.0789e38c.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/js/chunk-2d230e94.fefe2643.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\js\chunk-2d230e94.fefe2643.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/js/chunk-65b86cc8.685a253b.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\js\chunk-65b86cc8.685a253b.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/js/chunk-7c3acea6.96194ee2.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\js\chunk-7c3acea6.96194ee2.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/js/chunk-7e66b06c.9ffdc134.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\js\chunk-7e66b06c.9ffdc134.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/js/chunk-vendors.bfe9948e.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\js\chunk-vendors.bfe9948e.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/static/bootstrap-carousel/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\bootstrap-carousel\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://maquinasdeganancias.com/static/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maquinasdeganancias.com/static/bootstrap/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\bootstrap\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/static/FontList.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList.css
+Content Type: text/css
+
+Uri: https://maquinasdeganancias.com/static/FontList/Andale-Mono/Andale-Mono.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Andale-Mono\Andale-Mono.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Arial-Black/arial-black.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Arial-Black\arial-black.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Book-Antiqua/Book-Antiqua.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Book-Antiqua\Book-Antiqua.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Comic-Sans-MS/Comic-Sans-MS.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Comic-Sans-MS\Comic-Sans-MS.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Georgia/georgia.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Georgia\georgia.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Google/material-icons.woff2
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Google\material-icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Impact/Impact.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Impact\Impact.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Lato/Lato-Black.woff2
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Lato\Lato-Black.woff2
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Lato/Lato-Light.woff2
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Lato\Lato-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Lato/Lato-Thin.woff2
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Lato\Lato-Thin.woff2
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Lato/Lato.woff2
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Lato\Lato.woff2
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Montserrat/Montserrat-Light.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Montserrat\Montserrat-Light.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Montserrat/Montserrat-Regular.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Montserrat\Montserrat-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Montserrat/Montserrat-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Montserrat\Montserrat-SemiBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Muli/Muli-Black.woff2
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Muli\Muli-Black.woff2
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Muli/Muli-Light.woff2
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Muli\Muli-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Muli/Muli.woff2
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Muli\Muli.woff2
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Open-Sans/OpenSans-Regular.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Open-Sans\OpenSans-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Playfair-Display/static/PlayfairDisplay-Regular.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Playfair-Display\static\PlayfairDisplay-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Roboto/Roboto-Regular.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Roboto\Roboto-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Tahoma/Tahoma.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Tahoma\Tahoma.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Terminal/Monaco.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Terminal\Monaco.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/TrebuchetMS/trebuc.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\TrebuchetMS\trebuc.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Verdana/VerdanaPro-Regular.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Verdana\VerdanaPro-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Webdings/WebdingsRegula.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Webdings\WebdingsRegula.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/FontList/Wingdings/wingding.ttf
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\FontList\Wingdings\wingding.ttf
+Content Type: application/octet-stream
+
+Uri: https://maquinasdeganancias.com/static/GDPRPlugin/jquery.ihavecookies.min.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\GDPRPlugin\jquery.ihavecookies.min.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/static/jarallax/jarallax.min.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\jarallax\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/static/jquery-1.12.4.min.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/static/jquery-ui.js
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://maquinasdeganancias.com/static/material-icon.css
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\static\material-icon.css
+Content Type: text/css
+
+Uri: https://sg.fiverrcdn.com/photos/115522316/original/0f1ff5d0ae8e6d044d936feaa91630dcec3a0941.jpg?1533894592=
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\photos\115522316\original\0f1ff5d0ae8e6d044d936feaa91630dcec3a0941.jpg
+Content Type: image/jpeg
+
+Uri: https://storage.builderall.com/franquias/2/6996972/editor-html/8943100.jpg
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\franquias\2\6996972\editor-html\8943100.jpg
+Content Type: image/jpeg
+
+Uri: https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2016/12/improving-website-performance-using-a-content-delivery-network-cdn.jpg
+File Name: C:\Downloaded Web Sites\maquinasdeganancias.com\tutorials\wp-content\uploads\sites\2\2016\12\improving-website-performance-using-a-content-delivery-network-cdn.jpg
+Content Type: image/jpeg
+
